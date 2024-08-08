@@ -1,4 +1,4 @@
-# ⭐ About Me:
+# 🙋🏻 About Me:
 Junior Web Developer specializing in Backend end development.Experienced with Backend stage of the development cycle for dynamic webprojects. Well-versed in numerous programming languages including HTML5,CSS, PHP OOP, C#, MSSQLServer.
 
 
