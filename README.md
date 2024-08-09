@@ -1,5 +1,5 @@
 # 🙋🏻 About Me:
-Junior Web Developer specializing in Backend end development.Experienced with Backend stage of the development cycle for dynamic webprojects. Well-versed in numerous programming languages including HTML5,CSS, PHP OOP, C#, MSSQLServer.
+Junior Data Scientist specializing in Data Analysis and Machine Learning. Experienced with the end-to-end data science process for dynamic projects. Well-versed in numerous tools and libraries, including Matplotlib, Pandas, Seaborn, and Oracle. Skilled in both supervised and unsupervised learning techniques.
 
 
 ## 🌐 Socials:
