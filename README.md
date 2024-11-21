@@ -40,10 +40,6 @@ Junior Data Scientist specializing in Data Analysis and Machine Learning. Experi
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a>
-<a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost" width="40" height="40"/> 
-</a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Plotly_logo.png/800px-Plotly_logo.png" alt="plotly" width="40" height="40"/> 
+
 </a>
 </p>
