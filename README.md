@@ -1,5 +1,7 @@
 # 🙋🏻 About Me:
-Junior Data Scientist specializing in Data Analysis and Machine Learning. Experienced with the end-to-end data science process for dynamic projects. Well-versed in numerous tools and libraries, including Matplotlib, Pandas, Seaborn, and Oracle. Skilled in both supervised and unsupervised learning techniques.
+*Experienced in end-to-end data science workflows for dynamic projects.
+*Proficient in tools and libraries like Matplotlib, Pandas, Seaborn, and Oracle.
+*Skilled in both supervised and unsupervised learning techniques.
 
 
 ## 🌐 Socials:
