@@ -1,7 +1,7 @@
 # 🙋🏻 About Me:
-*Experienced in end-to-end data science workflows for dynamic projects.
-*Proficient in tools and libraries like Matplotlib, Pandas, Seaborn, and Oracle.
-*Skilled in both supervised and unsupervised learning techniques.
+* Experienced in end-to-end data science workflows for dynamic projects.
+* Proficient in tools and libraries like Matplotlib, Pandas, Seaborn, and Oracle.
+* Skilled in both supervised and unsupervised learning techniques.
 
 
 ## 🌐 Socials:
