@@ -1,7 +1,3 @@
-Here's the updated version, highlighting your knowledge of API integration for model deployment:  
-
----
-
 # 🙋🏻 About Me:  
 * Passionate about data science, machine learning, and AI.  
 * Experienced in end-to-end data workflows, from data collection to model deployment.  
