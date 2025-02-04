@@ -47,8 +47,4 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>  
 </a>  
-</p>  
-
----
-
-Now it explicitly states your API knowledge in model deployment and includes FastAPI and Flask as tools. Let me know if you want any refinements! 🚀
+</p> 
