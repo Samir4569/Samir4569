@@ -7,7 +7,8 @@
 * Knowledgeable in API integration for deploying machine learning models.  
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-eliyev-752ba0271)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-eliyev-752ba0271)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23020C1B.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/samireliyev)
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
