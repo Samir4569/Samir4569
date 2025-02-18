@@ -8,8 +8,9 @@
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-eliyev-752ba0271)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23020C1B.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/samireliyev)
-
+<a href="https://www.kaggle.com/samireliyev" target="_blank">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50"/>  
+</a> 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
