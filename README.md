@@ -73,7 +73,7 @@ I specialize in building end-to-end data solutions, turning raw information into
 
 
 ### ⚡ Fun Fact:
-- 💡 I enjoy participating in Kaggle competitions to stay sharp with the latest SOTA models.
+- 💡 I love diving into random datasets to find the hidden stories behind the numbers.
 - 🌱 Currently learning: PyTorch and NLP
 
 
