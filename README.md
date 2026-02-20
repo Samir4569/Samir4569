@@ -1,54 +1,74 @@
-# 🙋🏻 About Me:  
-* Passionate about data science, machine learning, and AI.  
-* Experienced in end-to-end data workflows, from data collection to model deployment.  
-* Proficient in Python, SQL, and tools like Pandas, Seaborn, Matplotlib, and Power BI.  
-* Skilled in supervised and unsupervised learning, with hands-on experience in classification, regression, and clustering.  
-* Strong foundation in Oracle SQL, web scraping, and deep learning frameworks like TensorFlow and Keras.  
-* Knowledgeable in API integration for deploying machine learning models.  
+# 👋 Hi, I'm Samir Aliyev!
+**Data Scientist | Machine Learning Engineer**
 
-## 🌐 Socials:  
-<a href="https://www.kaggle.com/samireliyev" target="_blank">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50"/>  
-</a> 
-<a href="https://www.linkedin.com/in/samir-aliyev-752ba0271/" target="_blank">  
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Kaggle" width="50"/>  
-</a> 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-</a>  
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
-</a>  
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>  
-</a>  
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/>  
-</a>  
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">  
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  
-</a>  
-<a href="https://keras.io/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>  
-</a>  
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">  
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>  
-</a>  
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>  
-</a>  
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>  
-</a>  
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>  
-</a>  
-<a href="https://seaborn.pydata.org/citing.html" target="_blank" rel="noreferrer">  
-<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/>  
-</a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>  
-</a>  
-</p> 
+I specialize in building end-to-end data solutions, turning raw information into actionable intelligence through robust machine learning pipelines and intuitive visualizations.
+
+---
+
+### 🙋🏻 About Me:
+* 🚀 **Passionate** about data science, machine learning, and the evolving landscape of AI.
+* 🏗️ **Experienced** in full-cycle data workflows, from automated data collection and web scraping to model deployment.
+* 🤖 **Expertise** in supervised and unsupervised learning, including classification, regression, and clustering.
+* 🧠 **Deep Learning** practitioner with hands-on experience using TensorFlow and Keras.
+* 📊 **Data Storytelling** focused on creating high-impact visuals and dashboards to drive business decisions.
+
+---
+
+### 🛠️ Tech Stack:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL (Oracle) |
+| **Data Analysis** | Pandas, NumPy, Scikit-learn |
+| **Deep Learning** | TensorFlow, Keras |
+| **Deployment** | FastAPI, REST APIs |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Environment** | Jupyter, Kaggle, Git |
+
+---
+
+### 🌐 Socials & Platforms:
+<p align="left">
+<a href="https://www.linkedin.com/in/samir-aliyev-752ba0271/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.kaggle.com/samireliyev" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+</p>
+
+### 💻 Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
+
+---
