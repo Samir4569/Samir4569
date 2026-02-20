@@ -3,8 +3,6 @@
 
 I specialize in building end-to-end data solutions, turning raw information into actionable intelligence through robust machine learning pipelines and intuitive visualizations.
 
-
-
 ---
 
 <p align="left">
@@ -22,18 +20,6 @@ I specialize in building end-to-end data solutions, turning raw information into
 * 🧠 **Deep Learning** practitioner with hands-on experience using TensorFlow and Keras.
 * 📊 **Data Storytelling** focused on creating high-impact visuals and dashboards to drive business decisions.
 
----
-
-### 🛠️ Tech Stack:
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL (Oracle) |
-| **Data Analysis** | Pandas, NumPy, Scikit-learn |
-| **Deep Learning** | TensorFlow, Keras |
-| **Deployment** | FastAPI, REST APIs |
-| **Visualization** | Power BI, Matplotlib, Seaborn |
-| **Environment** | Jupyter, Kaggle, Git |
 
 ---
 
