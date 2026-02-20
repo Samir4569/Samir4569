@@ -3,7 +3,16 @@
 
 I specialize in building end-to-end data solutions, turning raw information into actionable intelligence through robust machine learning pipelines and intuitive visualizations.
 
+
+
 ---
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samir4569&show_icons=true&theme=radical&hide_border=true" alt="Samir's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir4569&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+
 
 
 ### 🙋🏻 About Me:
@@ -74,26 +83,12 @@ I specialize in building end-to-end data solutions, turning raw information into
 
 ---
 
-### 📊 GitHub Activity & Stats:
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samir4569&show_icons=true&theme=radical&hide_border=true" alt="Samir's Stats" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Samir4569&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
 
-### 📈 Current Streak:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir4569&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
-
-
----
 
 
 ### ⚡ Fun Fact:
 - 💡 I enjoy participating in Kaggle competitions to stay sharp with the latest SOTA models.
 - 🌱 Currently learning: [Add a specific library like PyTorch or LLM Fine-tuning here]
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
