@@ -76,7 +76,8 @@ I specialize in building end-to-end data solutions, turning raw information into
 - 💡 I enjoy participating in Kaggle competitions to stay sharp with the latest SOTA models.
 - 🌱 Currently learning: PyTorch and NLP
 
----
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
