@@ -5,12 +5,6 @@ I specialize in building end-to-end data solutions, turning raw information into
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samir4569&show_icons=true&theme=radical&hide_border=true" alt="Samir's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir4569&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
-
-
 
 
 ### 🙋🏻 About Me:
